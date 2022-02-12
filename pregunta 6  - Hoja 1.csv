@@ -1,0 +1,2202 @@
+Sex,Class ,Age,Survived
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+M,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+F,3,C,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+M,1,A ,0
+F,1,A ,0
+F,1,A ,0
+F,1,A ,0
+F,1,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+M,2,A ,0
+F,2,A ,0
+F,2,A ,0
+F,2,A ,0
+F,2,A ,0
+F,2,A ,0
+F,2,A ,0
+F,2,A ,0
+F,2,A ,0
+F,2,A ,0
+F,2,A ,0
+F,2,A ,0
+F,2,A ,0
+F,2,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+M,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+F,3,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+M,C,A ,0
+F,C,A ,0
+F,C,A ,0
+F,C,A ,0
+M,1,C,1
+M,1,C,1
+M,1,C,1
+M,1,C,1
+M,1,C,1
+F,1,C,1
+M,2,C,1
+M,2,C,1
+M,2,C,1
+M,2,C,1
+M,2,C,1
+M,2,C,1
+M,2,C,1
+M,2,C,1
+M,2,C,1
+M,2,C,1
+M,2,C,1
+F,2,C,1
+F,2,C,1
+F,2,C,1
+F,2,C,1
+F,2,C,1
+F,2,C,1
+F,2,C,1
+F,2,C,1
+F,2,C,1
+F,2,C,1
+F,2,C,1
+F,2,C,1
+F,2,C,1
+M,3,C,1
+M,3,C,1
+M,3,C,1
+M,3,C,1
+M,3,C,1
+M,3,C,1
+M,3,C,1
+M,3,C,1
+M,3,C,1
+M,3,C,1
+M,3,C,1
+M,3,C,1
+M,3,C,1
+F,3,C,1
+F,3,C,1
+F,3,C,1
+F,3,C,1
+F,3,C,1
+F,3,C,1
+F,3,C,1
+F,3,C,1
+F,3,C,1
+F,3,C,1
+F,3,C,1
+F,3,C,1
+F,3,C,1
+F,3,C,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,1,A,1
+M,2,A,1
+M,2,A,1
+M,2,A,1
+M,2,A,1
+M,2,A,1
+M,2,A,1
+M,2,A,1
+M,2,A,1
+M,2,A,1
+M,2,A,1
+M,2,A,1
+M,2,A,1
+M,2,A,1
+M,2,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,3,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+M,C,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,1,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,2,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,3,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
+F,C,A,1
