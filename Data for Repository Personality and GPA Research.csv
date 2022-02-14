@@ -1,4 +1,4 @@
-﻿Corresponding_Year,Gender,Extraversion,Agreeableness,Conscientiousness,Neuroticism,Openness,GPA
+﻿Year,Gender,Extraversion,Agreeableness,Conscientiousness,Neuroticism,Openness,GPA
 2,2,0.725,0.644444444,0.555555556,0.95,0.84,3.84
 2,2,0.4,0.866666667,0.688888889,0.625,0.52,2.9
 2,2,0.7,0.755555556,0.711111111,0.6,0.76,2.57
